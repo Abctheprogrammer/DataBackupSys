@@ -1,21 +1,29 @@
-# 🎯 Data Backup System v2.0
+# 📦 Data Backup System
 
-[![Java](https://img.shields.io/badge/Java-17+-green.svg)](https://www.oracle.com/java/)
-[![VSCode](https://img.shields.io/badge/VSCode-Ready-blue.svg)](https://code.visualstudio.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+A comprehensive **Java-based Data Backup System** that supports multiple file formats, version management, compression, and file utilities. This project demonstrates real-world file handling, serialization, and system design concepts.
 
-**Complete backup solution** with Binary, CSV, GZIP compression, versioning & statistics.
+---
 
-## ✨ **Features**
-- 📦 **Binary Serialization** (.dat files)
-- 💾 **GZIP Compression** (.gz files) 
-- 📊 **CSV Import/Export**
-- 📋 **Version Management**
-- 🧹 **Auto Cleanup** (by days)
-- 📈 **Statistics Dashboard**
-- 🎨 **Interactive Console UI**
-- ✅ **Single File** - No dependencies!
+## 🚀 Features
 
-## 🚀 **Quick Start - VSCode**
+✔ Object Serialization (Binary Format)  
+✔ CSV Export & Import  
+✔ JSON Support (using Gson)  
+✔ File Compression (GZIP)  
+✔ Backup Version Management  
+✔ File Comparison Utility  
+✔ CSV File Merge  
+✔ Menu-Driven CLI Application  
 
-### **1. Prerequisites**
+---
+
+## 🛠️ Technologies Used
+
+- Java (Core Java, Collections, File I/O)
+- Gson Library (for JSON handling)
+- GZIP (for compression)
+- VS Code (Development)
+
+---
+
+## 📁 Project Structure
